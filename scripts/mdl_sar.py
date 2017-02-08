@@ -2,10 +2,14 @@
 
 import re
 
-with open('./pdf_names.txt') as f:
+
+pdfs_file = './pdf_names_2017.txt'
+sessions_file = './session_names_2017.txt'
+
+with open(pdfs_file) as f:
     pdf_names = f.read().splitlines()
 
-with open('./session_names.txt') as f:
+with open(sessions_file) as f:
     session_names = f.read().splitlines()
 
 #for i in xrange(0,len(pdf_names)):
