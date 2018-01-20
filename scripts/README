@@ -13,4 +13,4 @@ python mdl_sar.py > sessions_mdl.html
 8. Insert sessions_mdl.html into index.html
 9. cp index.html start.html
 10. mv index.html and start.html into root of usb dir
-
+11. change mdl-color--primary and mdl-color--primary-dark in css/material.deep_purple-pink.min.css to latest colors (RGB)

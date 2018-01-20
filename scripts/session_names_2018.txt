@@ -1,0 +1,258 @@
+Pancreatic Cancer: Pathophysiology, Genetics, Proteomics
+Multimodality Imaging in the Work-up of Suspected Pancreatic Cancer or Current Issues in Staging Pancreatic Cancer
+New Staging Parameters in Pancreatic Cancer 
+IPMN Update
+Pancreatitis Reporting Recommendations
+IgG4 Disease Update
+Other Pancreatic Neoplasms
+New Horizons Lecture: How to Keep Prostate Cancer from Killing You
+Radiologist's Guide to Radiogenomics of Cancer in the Abdomen and Pelvis
+New Cancer Therapies in the Abdomen: The Nibs and the Mabs 
+Imaging Findings of Side Effects of Oncologic Therapies in the Abdomen 
+How to Organize and Run a Multidisciplinary Tumor Board and Multidisciplinary Conferences
+Reporting Strategies in the Abdomen: RECIST, CHOI, MCTRC, IRADS
+Molecular Imaging Beyond FDG
+Focal Therapies for Oligometastatic Disease
+Cannon Lecture: Cultivating Difference Matters in Radiology
+01. Contrast Enhanced Ultrasound of the Liver: How, When and Why?
+02. MR Elastography of the Liver: State of the Art and Updates
+03. The Thyroid: An Update on ATA, TI-RADS and Intervention
+04. Pancreas Cancer Diagnosis and Staging: Pearls and Pitfalls
+05. Imaging Overview of Intestinal and Multivisceral Transplantation
+06. Bowel Ischemia: 2018 Update
+07. Female Pelvic MRl Track - Ask a Radiation Oncologist: Collaborative Image Based Treatment Planning in Gynecologic Oncology
+08. Pelvic Floor Imaging Track - Tips, Templates and Techniques for Successful Pelvic Floor Imaging: Experience of the Pelvic Floor DFP
+09. Prostate MRI Track - What Changes Will Be Made to PI-RADS v2: A Sneak Peek at Version 3
+10. Hepatic Perfusion Anomalies: Worry or Go with the Flow?
+11. Gossypibomas and Other RFO's: Imaging, Interventional Management and Prevention
+12. Uro-oncology Tumor Boards: Lessons Learned
+13. Deep Learning and Computer Image Analysis: Friend or Foe?
+14. Adrenal Incidentalomas
+15. Interpretive Errors and Biases in Abdominal Imaging
+16. LI-RADS Track - LI-RADS Version 2017: An Overview
+17. MR Enterography: From Basics to New Concepts - How We Do It
+18. Ultrasound Physics in Action: Artifacts and Image Optimization*
+19. Multimodality Imaging of Ileal Pouch-anal Anastomosis (IPAA) Reconstruction and Complications
+20. Diagnosis of Appendicitis in Children: Lessons Learned*
+21. Anatomic Variants, Anomalies of the Pancreas and Other Oncologic Imaging Pitfalls
+22. Essentials: Luminal GI Track - Esophagus: Inflammation/Infection, Tumors, Motility Disorders, Post-op
+23. Female Pelvic MRl Track - The Basics of MRI of the Female Pelvis
+24. Pelvic Floor Imaging Track - Pelvic Floor Ultrasound: Why, When and How - Reflections from the Pelvic Floor DFP*
+25. Prostate MRI Track - MRI-guided Minimally Invasive Therapy
+26. CT Colonography: Computer Aided Detection and Clinical Case Review
+27. Complications of Liver and Kidney Transplant - Similarities and Differences
+28. Incidental Clinically Silent Pheochromocytomas Can Be Lethal - The Importance of Imaging in Their Diagnosis
+29. Multimodality Imaging of Bladder Cancer - Lesson Learned from Multidisciplinary Bladder Cancer Conference 
+30. Challenging Unknown Cases in Abdominal Imaging
+31. LI-RADS Track - Liver Imaging Reporting and Data System (LI-RADS): Structured Reporting Including Management Implications
+32. Hypervascular Tumors: The Many Faces of Melanoma and Neuroendocrine Tumors
+33. Tumors of the Pancreas: Case Based Rad/Surg Correlation with a Surgeon's Perspective
+34. Grading of Chronic Pancreatitis: Lessons from the Past and Potential for New Comprehensive Imaging
+35. Leadership and Business Track - Leadership and Difficult Situations: Lessons Learned
+36.  Female Pelvic MRl Track - MRI of Adnexal Lesions
+37. Pelvic Floor Imaging Track - Why Fluoroscopic Defecography Remains Relevant: Updates on Rationale, Technique and Interpretation from the Pelvic Floor DFP
+38. Prostate MRI Track - Pitfalls and Innovations in Targeted Biopsy: Practice-building
+39. Dual Energy CT Track - Dual Energy CT Workflow and Financial Considerations
+40. Small Bowel Imaging Track - Small Bowel Obstruction and Bowel Ischemia
+41. Use of MDCT After Damage Control Surgery
+42. Myth Busters Take on Abdominal Interventions
+43. Leadership and Business Track - Physician Burnout: Rekindling the Fire!
+44. New ACR Guidelines on Incidental Renal Mass Management
+45. The Infamous Lung Bases: A Review of the Most Common Lung Pathology for the Abdominal Radiologist
+SAM - Pitfalls in GI Imaging (Separate registration required)
+46. Anatomy of a "Miss": Tough Cases from QA
+47. LI-RADS Track - Implementing US LI-RADS for Screening and Surveillance of HCC in Your Practice
+48. US Elastography of the Liver: How and When? Will CT Play a Role in the Future?*
+49. The Spleen: How to Image It and What to Do with the Findings
+50. Navigating the Colorectal Tumor Board
+51. Essentials: Luminal GI Track - Small Bowel: Focal and Diffuse Disease
+52. Female Pelvic MRl Track - MRI of Endometrial and Cervical Cancer
+53. Pelvic Floor Imaging Track - Imaging in the Pelvic Floor: A Clinician's Perspective
+54. Prostate MRI Track - Beyond MP-MRI: Assessment of Men with Prostate Cancer with New PET Agents
+55. Dual Energy CT Track - Problem Solving Dual Energy CT Cases
+56. Small Bowel Imaging Track - Gastrointestinal Bleeding
+57. UK vs. KU: Interesting Cases from Two March Madness Regulars
+58. Imaging of the Scrotum and Testes: More Than Nuts and Bolts
+59. The Radiology-oncology Disconnect: Closing the Gap in Reporting Abdominal Oncologic Imaging Studies
+60. Applications of 3D Printing in the Abdomen and Pelvis: Initial Experience at a VA Innovations Center
+ASAR Lecture: Imaging of the Lymphatic System in the Abdomen; Still Unrecognized or One Step Closer to Clinical Use?
+61. LI-RADS Track - HCC Treatment Response: LI-RADS and Other Response Criteria
+62. Advanced Multiparametric MR and CT-Enterography Imaging of Crohn's Disease: The Essentials
+63. Image-guided Abdominal and Pelvic Procedures: How to Get the Tough Ones Done Safely
+64. Rapid MRI Evaluation of Appendicitis
+65. Sour M and M's: Lessons Learned from Peer Review
+66. Diagnosing the "Closed Loop" Obstruction: Why Is It Necessary to Differentiate from Non-closed Loop?
+67. Essentials: Luminal GI Track - Colon: Inflammation/Infection/Ischemia
+68. Dual Energy CT Track - Dual Energy CT in a Busy Clinical Practice
+69. Small Bowel Imaging Track - Small Bowel Tumors  
+70. Leadership and Business Track - Navigating the Early Years in Academic Radiology
+71. Prostate MRI Track - Prostate MRI: Evidence, Case Review and Reporting for Men on Active Surveillance
+72. Evidence-based Imaging for Detection and Follow-up of Ovarian Cancer
+73. Dual Energy CT Track - Genomics of Ovarian Cancer and DECT in Staging and Follow-up
+74. Endometrial Abnormalities: Role of CT, MRI and US
+75. Transitioning to TI-RADS Based Thyroid Nodule Assessment Using Advanced Structured Reporting*
+SAM - Mastering the Hepatopancreaticobiliary Tumor Board (Separate registration required)
+76. The Evaluation of Focal Liver Lesions: MRI vs. CT - Which Way Do We Go?
+77. MR Defecography for Complex Pelvic Pathology in Women and Men: A Case-based Approach
+78. Biliary and Pancreatic Imaging: Normal Variants and Pitfalls
+79. Bariatric Surgery: A Guide to Internal Hernias and Other Complications
+80. Bowel Ischemia: Diagnostic Pearls and Pitfalls
+81. Imaging the Post Treatment Liver: Ablation, TACE, Y90
+82. Essentials: Luminal GI Track - Colorectal Cancer: Nodal Staging and Patterns of Spread
+83. Dual Energy CT Track - Technical MRI Updates and Limitations: Practical Primer on Optimal Sequence Utilization
+84. Small Bowel Imaging Track - Non-CD Inflammatory Bowel Diseases
+85. Ultrasound Artifacts: Application in Diagnosis and Pitfalls
+86. Challenging Abdominal Cases: Diagnostic Approach for a Practicing Radiologist
+87. Imaging, RT Planning and Therapy Response in Gynecological Cancers - Role of Functional Imaging
+88. Barium Esophagraphy: A Last Hurrah
+89. Imaging Complications of Endometrial Ablation
+90. Treatment Response in Abdominal Imaging: 1 - Oncologic Trial Measurements, 2 - Mixed and Pseudo Response 
+New Trauma Scoring Systems in the ER
+Sick Bowel: Ischemia, Infection and Internal Hernias
+The Lost Art of Abdominal Radiography in the ER/Hospital
+Dual Energy CT Applications in the ER
+Acute GI Bleed: New Role for Abdominal CTA
+ESUR Lecture: Penile Imaging
+ESGAR Lecture: Diagnosis of FNH vs. Adenoma, Still Difficult?
+Rectal Cancer: Staging with MRI 
+MRI of Endometriosis
+MRI of Uterine and Cervical Cancer
+MRI of Adnexal Masses
+PET Imaging in the Pelvis
+Intervention in the Pelvis
+Leading an Abdominal Division: Practice, Education and Research
+Turning Innovation into a Business Proposition
+How to Start a New Service Line
+How to Deal with the Behavior Problem/Disruptive Staff
+New Trends in Resident and Fellow Education
+91. Inflammatory Pseudotumors and Myofibroblastic Tumors: 2018 Update
+92. Imaging Following Colon Surgery: Expected Anatomy and Complications
+93. Contrast Enhanced Ultrasound in Liver Diseases*
+94. Strut Your Stuff: IVC Filters, What the Abdominal Imager Needs to Know
+95. Avoiding Pitfalls in Study Design and Data Analysis for Abdominal Radiology
+96. MRI Staging of Pancreatic Cancer: A Case-based Review
+97. Decoding the Management of IPMN: Are There Too Many Guidelines and Uncertainty?
+98. Interesting and Unusual Manifestations of Liver Lesions: How to Avoid the Pitfalls - Particularly with HCC
+99. Essestials: Urinary Imaging - Pitfalls of Imaging of Renal Masses: Test Your Skills
+100. Imaging of Urinary Diversions
+101. In-Bore MRI and MRI-US Fusion-guided Prostate Biopsies: Techniques and Pitfalls
+102. Abdominal Complications of Molecular Targeted and Immunotherapy
+103. Leadership and Business Track - Topics in Radiology Informatics: Clinical Decision Support, Deep Learning
+104. Goin' Old School: Abdomen Film and Fluoro Calls That You Still Have to Nail
+105. GI and GU Tumor Markers: From Oncogenesis to Imaging
+106. Acute Pelvic Pathology: Ectopic Pregnancy and Ovarian Torsion*
+107. Misses, Misinterpretations and Essentials of GU Trauma
+108. Normal and Abnormal Findings in Doppler Evaluation of Liver Transplant*
+109. Irreversible Electroporation of Abdominal Tumors
+110. Global Thinking, Global Imaging, Global Training
+111. Leadership and Business Track - Practical Leadership: Motivation, Mentoring, Mindfulness
+112. Right Sided Abdominal Pain: Not Just Cholecystitis and Appendicitis
+113. Cystic Diseases and Other Pathology of the Gallbladder and Biliary Tract
+114. Esssentials: Lumnial GI Tract - Stomach: Imaging of Acute Gastric Conditions and the Spectrum of Volvulus
+115. Essentials: Urinary Imaging - Leaving No Stone Unturned: 360 Degree Diagnosis with US and CT
+116. Retroperitoneal Neoplasms: Exploring the AIRP Archive
+117. Renal Imaging in the Era of Precision Medicine: 1 - Kidney Cancer Radiomics 2 - Hereditary Renal Syndromes
+118. RECIST & Cheson & Choi, Oh My! A Review of Tumor Imaging Response Criteria
+119. Contrast Controversies and Confusion: An Enhanced 2018 Update
+120. Incidental Findings at Abdominal CT: Beyond the White Papers
+121. PET CT for the Abdominal Radiologist
+122. Placental Evolution in Pregnancy: Imaging Review of Physiology, Pathology and Pitfalls*
+SAM - Below the Belt: Imaging Techniques in the Pelvic Floor and Perineum (Separate registration required)
+123. Abdominal Cases from the Fleet: West Coast vs. East Coast Navy
+124. Liver Sonography: Pearls, Pitfalls, and New Observations*
+125. Impact of Workplace Culture on Productivity: From Toxicity to Togetherness
+126. What the Radiologist Should Know About Biphenotypic Primary Liver Carcinoma: Imaging, Diagnosis and Outcomes
+127. Ampullary Region and Beyond: MDCT and MRI Technique Optimization, Normal Anatomy, Neoplasms and Pitfalls
+128. Essentials of Small Bowel Obstruction
+129. Postoperative Imaging: What the Surgeon Needs to Know
+130. CT Colonography Track - Tips and Tricks for CT Colonography Performance
+131. Essentials: Urinary Imaging - Beyond Consensus: Developing Better Management Algorithms Through Risk Models
+132. MR Virtual Biopsy of Renal Tumors: Common, Uncommon, Rare
+133. Radiology of Biochemical Recurrence in Prostate Cancer
+134. Leadership and Business Track - Radiologist Burnout: The Smoldering Unrest
+135. Cringe Worthy: Learning from OB/GYN Postoperative Complication Imaging*
+136. If You Can Make It There: Tough Cases from NYU
+137. Practical MRI Physics: DWI of the Abdomen and Pelvis
+138. Role of 3-Dimensional US Imaging in Gynecology - What Works?*
+139. MRI Physics for the Abdominal Radiologist
+140. Abdominal Vascular Ultrasound: A Review of Key Concepts*
+141. Can This Be Biopsied? How to Manage the Difficult Requests
+142. Grant Writing Tips for the Academic Radiologist: From Foundation to NIH
+143. What's New in Intrahepatic Cholangiocarcinoma: Evolving Concepts in Imaging
+144. Pitfalls in Liver Imaging Interpretation After Locoregional Therapy: A Case-based Review
+145. Radiology PSI (Pain Scene Investigators): Evaluation of Acute Abdominal Pain Including Blunt and Penetrating Trauma
+146. CT Colonography Track - How to Lower Dose for CT Colonography
+147. Rectal Cancer MRI Track - Staging Rectal Cancer: Baseline MRI Performance and Interpretation
+148. Essentials: Urinary Imaging: Toasted or Frozen: Post-ablation Imaging of the Kidney
+149. Genitourinary Trauma: From Adrenals to Penile Injury
+150. MRI of Uterine Fibroids: Improving Outcomes for Women with Menorrhagia and Dysmenorrhea
+151. Uncommon Malignant Renal Tumors and Atypical Presentation of Common Ones: A Guide for Radiologists
+152. Prostate Anatomy: What You Need to Know to Diagnose and Stage Prostate Cancer
+153. Adding Dual Energy CT to Routine Emergency Department Workflow: Friend or Foe?
+154. Controversies in Multimodality Female Pelvic Imaging
+SAM - Comprehensive Image-guided Intervention for the Abdominal Radiologists (Separate registration required)
+155. Switch Hitters: Experts in GI and GU Cross Over in a Team-based Interactive Case Challenge 
+156. The Right Tool for the Job: US vs. CT Guided Procedures, Choose Wisely*
+157. Leadership and Business Track - Adopting Industrial Engineering Concepts for Radiology Workflow Optimization
+158. Understanding the Ins and Outs of Internal Hernias
+159. Staging and Structured Reporting for Pancreatic Cancer: Pre and Post-op
+160. Aortic Repair: What the Abdominal Imager Needs to Know About Important CT Findings and Acute Complications
+161. CT Colonography Track - CTC Interpretation of the Difficult Lesion
+162. Rectal Cancer MRI Track - Restating Rectal Cancer: Post-treatment MR Interpretation
+163. Essentials: Urinary Imaging - Bladder Cancer Revisited: Pre and Postoperative Imaging Evaluation
+164. Don't Get Rejected: Essentials the Radiologist Needs to Know About Imaging of Renal Transplants*
+165. Understanding Treatment Response and Complications in an Age of Targeted and Immunologic Cancer Therapy
+166. Liver Interventions of the Liver, Spleen and Pancreas
+167. Imaging and Interventional Applications of Contrast Enhanced Ultrasound (CEUS) of the GU System*
+168. Kvetcher's Corner - Pet Peeves in Abdominal Imaging
+169. Texture Analysis in Abdominal Cancer: What Do We Know, Where Are We Headed?
+170. Endometriosis: 1 - Deep Infiltrative Disease 2 - Pre and Postoperative Correlation
+171. IgG4 Related Disease: A Multimodality, Comprehensive Update
+172. Postsurgical Evaluation of Pancreatic Cancer Patients for Recurrence and Complications
+173. MR Defecography at 3T: Our Experience with High Field Strength Dynamic Pelvic MRI
+174. Hepatobiliary Imaging: What the Surgeon Wants to Know
+175. Belly-ache Resolved: Tough But Solvable GI Cases
+176. Leadership and Business Track - Radiology Leadership: Things You Never Learned in Medical School, But Wish You Had - Part 1
+177. CT Colonography Track - The Benefits of Adding CTC to Colorectal Cancer Screening Programs
+178. Rectal Cancer MRI Track - Rectal Cancer Multidisciplinary Team - Part 1
+179. Essentials: Urinary Imaging - Retroperitoneum: Tumors, Fibrosis, Vascular Abnormalities  
+180. Multimodality Imaging of Kidney Transplantation: 2018 Update
+181. Leadership and Business Track - Let's Talk Health Policy: A - MACRA B - A Health Economics Resident Module
+182. Misleading Appearances in Pediatric Uroimaging
+183. Bladder and Male GU Injuries: Assessing the Family Jewels 
+184. Best Cases from Cleveland and Chicago: An Interactive Case Challenge
+185. Battle of the Sexes: Challenging Cases from the Male and Female Pelvis, Round 2
+186. Leadership and Business Track - The Quality and Safety Toolbox in Radiology
+187. Treatment Determining Stages in Pelvic Malignancies
+188. Contrast-enhanced Ultrasound and Other Tips for Improved Biopsy Yield*
+189. Checklist Approach for CT of Blunt Abdominal Trauma
+190. Test your Abdominal Vascular IQ - Devices, Tumors, Ischemia, Bleeds: Which Imaging When?
+191. So You Think You Are a Liver Expert? Challenges in Liver Disease
+192. All Things Endocrine: From Multiple Endocrine Neoplasia Syndromes to Pancreatic Neuroendocrine Tumors
+193. Leadership and Business Track - Radiology Leadership: Things You Never Learned in Medical School, But Wish You Had - Part 2
+194. Rectal Cancer MRI Track - Rectal Cancer Multidisciplinary Team - Part 2
+195. Essentials: Urinary Imaaging - Fusion Biopsy in Prostate Cancer
+196. Beyond Hydronephrosis: Ultrasound of the Kidneys with CT and MR Correlation
+197. Evolving Therapies and Changes in Renal Cell Carcinoma Management
+198. Leadership and Business Track - Like Skills for Radiologists: 1 - Stress Reduction 2 - Do It Yourself Investing
+199. Cervical Cancer: Brachytherapy and Beyond
+200. MR Imaging of Pelvic Floor Dysfunction
+201. Protocol Optimization for Emergency MRI Examinations
+202. Special Considerations for the Acute Abdomen: 1 - Pregnant Patients 2 - Oncologic Patients
+SAM - What the GU Oncologist/Urologist Wants to Know
+Endorectal Coil vs. No Endorectal Coil
+Liver MR Elastography vs. Ultrasound Elastography
+Endometriosis: US vs. MRI
+Placental Disorders: US vs. MRI
+Liver MR Contrast: Conventional or Hepatobiliary
+Ultrasound Contrast: Contrast Agents, Imaging Techniques, and Applications
+Ultrasound Contrast in the Liver
+Ultrasound Contrast in the Kidney
+Ultrasound Contrast: Evaluation of the Bowel
+Ultrasound Guided Intervention: How Does Contrast Help?
+Pathophysiology, Histology, Genetics, Proteomics
+Imaging Tools in Assessment of Renal Tumor Aggressiveness
+Protocol Optimization in Renal Cancer Diagnosis and Staging
+Paradigm Shift in Management of Small Kidney Tumors
+Advanced Renal Cell CA - What's New with Systemic Therapy
+Renal Cell CA - Update on Ablative Therapies
